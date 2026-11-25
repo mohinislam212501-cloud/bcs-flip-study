@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_paper">#F4F1EA</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="teal_dark">#0F4C4C</color>
+    <color name="teal_primary">#0F766E</color>
+    <color name="teal_soft">#E6F4F1</color>
+    <color name="amber_accent">#D97706</color>
+    <color name="amber_soft">#FEF3C7</color>
+    <color name="coral_waste">#E11D48</color>
+    <color name="coral_soft">#FFE4E6</color>
+    <color name="indigo_sleep">#4F46E5</color>
+    <color name="indigo_soft">#E0E7FF</color>
+    <color name="text_main">#1C1917</color>
+    <color name="text_muted">#57534E</color>
+    <color name="border_soft">#DDD6C8</color>
+</resources>
